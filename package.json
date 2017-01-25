@@ -65,7 +65,7 @@
     "@types/node": "6.0.39",
     "@types/webpack": "1.12.34",
     "async": "2.0.1",
-    "bootstrap": "3.3.7",
+    "bootstrap": "4.0.0-alpha.5",
     "codecov": "1.0.1",
     "conventional-changelog-cli": "1.2.0",
     "conventional-github-releaser": "1.1.3",
@@ -111,6 +111,11 @@
       "name": "Oleksandr Telnov",
       "email": "otelnov@gmail.com",
       "url": "https://github.com/otelnov"
+    },
+    {
+      "name": "Christopher Eby",
+      "email": "christophereeby@gmail.com",
+      "url": "https://github.com/sirhcybe"
     }
   ]
 }
